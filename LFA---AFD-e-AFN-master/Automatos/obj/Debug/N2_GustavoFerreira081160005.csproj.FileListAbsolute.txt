@@ -1,0 +1,8 @@
+C:\Users\081160005\Desktop\LFA---AFD-e-AFN-master\Automatos\bin\Debug\Automatos.exe.config
+C:\Users\081160005\Desktop\LFA---AFD-e-AFN-master\Automatos\bin\Debug\Automatos.exe
+C:\Users\081160005\Desktop\LFA---AFD-e-AFN-master\Automatos\bin\Debug\Automatos.pdb
+C:\Users\081160005\Desktop\LFA---AFD-e-AFN-master\Automatos\obj\Debug\Automatos.telaPrincipal.resources
+C:\Users\081160005\Desktop\LFA---AFD-e-AFN-master\Automatos\obj\Debug\Automatos.Properties.Resources.resources
+C:\Users\081160005\Desktop\LFA---AFD-e-AFN-master\Automatos\obj\Debug\N2_GustavoFerreira081160005.csproj.GenerateResource.Cache
+C:\Users\081160005\Desktop\LFA---AFD-e-AFN-master\Automatos\obj\Debug\Automatos.exe
+C:\Users\081160005\Desktop\LFA---AFD-e-AFN-master\Automatos\obj\Debug\Automatos.pdb
